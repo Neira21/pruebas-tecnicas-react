@@ -47,6 +47,18 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
+input{
+  background-color: #222;
+  border-radius: 4px;
+  line-height: 25px;
+  cursor: default;
+  border: 1px solid #555;
+  display: block;
+  margin-bottom: 16px;
+  width: 80%;
+}
+
 button:hover {
   border-color: #646cff;
 }
