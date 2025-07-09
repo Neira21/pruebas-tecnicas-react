@@ -7,7 +7,7 @@ Este proyecto consiste en una aplicación desarrollada con **React** y **TypeScr
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/) (opcional)
-- [CSS Modules](https://github.com/css-modules/css-modules) o estilos en línea simples
+- CSS para los estilos
 
 ## 📦 Instalación
 
